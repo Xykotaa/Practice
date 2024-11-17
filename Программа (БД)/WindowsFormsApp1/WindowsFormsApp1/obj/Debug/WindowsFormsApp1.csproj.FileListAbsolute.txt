@@ -1,0 +1,34 @@
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 32-9\Отчеты ИСП 32 УП ПМ.03\Перевощиков\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Программа (БД)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
